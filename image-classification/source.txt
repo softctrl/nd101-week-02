@@ -1,0 +1,12 @@
+week-02-prj
+source deactivate week-02-prj
+
+pip install -U floyd-cli
+
+RUN ID                  NAME                                      VERSION
+----------------------  --------------------------------------  ---------
+E4gw37kVPFT2WRErHveS6E  timoshenko/dlnd_image_classification:1          1
+
+
+
+yd stop E4gw37kVPFT2WRErHveS6E
